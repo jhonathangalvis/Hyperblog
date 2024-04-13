@@ -5,3 +5,5 @@ naci en manizales
 colombia
 
 deportista, estudiante universidad de manizales
+
+proximamente desarrollador full stack
