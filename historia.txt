@@ -8,3 +8,4 @@ deportista, estudiante universidad de manizales
 
 proximamente desarrollador full stack
 and machine learning
+e inteligencia artifical
